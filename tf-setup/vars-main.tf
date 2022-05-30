@@ -2,7 +2,7 @@
 variable "region" {
   description = "The name of the AWS Region"
   type        = string
-  default     = "eu-west-1a"
+  default     = "eu-west-1"
 }
 
 variable "profile" {
